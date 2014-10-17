@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zac:home|Door43 (zac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zac|d43-zac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zac/archive/master.zip|d43-zac.zip]]
+
+**Recent Changes**
+{{changes>ns = zac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zac|Ethnologue data]]
+
